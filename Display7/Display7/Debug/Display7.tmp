@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\larss\Documents\Atmel Studio\7.0\Display7\Display7\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Display7\Display7\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Display7\Display7\Debug\Display7.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Display7.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Display7.map</FILE>
+  <FILE>Display7.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Display7\Display7\main.asm</FILE><LINE>39</LINE></MAIN>
+  <TIMER0><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Display7\Display7\main.asm</FILE><LINE>72</LINE></TIMER0>
+  <LOOP><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Display7\Display7\main.asm</FILE><LINE>48</LINE></LOOP>
+  <INCREMENTO><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Display7\Display7\main.asm</FILE><LINE>63</LINE></INCREMENTO>
+  <RESET><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Display7\Display7\main.asm</FILE><LINE>81</LINE></RESET>
+  <ENCELUD><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Display7\Display7\main.asm</FILE><LINE>68</LINE></ENCELUD>
+ </LABELS>
+</ASSEMBLER_INFO>

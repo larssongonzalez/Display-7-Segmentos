@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\larss\Documents\Atmel Studio\7.0\display7segmentos\display7segmentos\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\larss\Documents\Atmel Studio\7.0\display7segmentos\display7segmentos\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\larss\Documents\Atmel Studio\7.0\display7segmentos\display7segmentos\Debug\display7segmentos.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>display7segmentos.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>display7segmentos.map</FILE>
+  <FILE>display7segmentos.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\display7segmentos\display7segmentos\main.asm</FILE><LINE>59</LINE></MAIN>
+  <TABLA7SEG><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\display7segmentos\display7segmentos\main.asm</FILE><LINE>185</LINE></TABLA7SEG>
+  <LOOP><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\display7segmentos\display7segmentos\main.asm</FILE><LINE>75</LINE></LOOP>
+  <INCREMENTO1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\display7segmentos\display7segmentos\main.asm</FILE><LINE>136</LINE></INCREMENTO1>
+  <DECREMENTO1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\display7segmentos\display7segmentos\main.asm</FILE><LINE>154</LINE></DECREMENTO1>
+  <DELAY><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\display7segmentos\display7segmentos\main.asm</FILE><LINE>141</LINE></DELAY>
+  <DISPLAY><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\display7segmentos\display7segmentos\main.asm</FILE><LINE>173</LINE></DISPLAY>
+  <DELAY2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\display7segmentos\display7segmentos\main.asm</FILE><LINE>159</LINE></DELAY2>
+ </LABELS>
+</ASSEMBLER_INFO>
